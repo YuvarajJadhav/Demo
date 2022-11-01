@@ -31,9 +31,8 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "WebApplication7/1.0.0": {
+      "WebApplication8/1.0.0": {
         "dependencies": {
-          "WebApplication8": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -318,14 +317,6 @@
           "System.Xml.XPath.XDocument": "5.0.0.0",
           "WindowsBase": "4.0.0.0"
         },
-        "runtime": {
-          "WebApplication7.dll": {}
-        },
-        "compile": {
-          "WebApplication7.dll": {}
-        }
-      },
-      "WebApplication8/1.0.0": {
         "runtime": {
           "WebApplication8.dll": {}
         },
@@ -2034,11 +2025,6 @@
     }
   },
   "libraries": {
-    "WebApplication7/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "WebApplication8/1.0.0": {
       "type": "project",
       "serviceable": false,

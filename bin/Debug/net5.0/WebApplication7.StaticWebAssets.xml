@@ -1,3 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
   <ContentRoot BasePath="/" Path="C:\Users\ryuva\source\repos\WebApplication7\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/WebApplication8" Path="C:\Users\ryuva\source\repos\WebApplication8\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/WebApplication8" Path="C:\Users\ryuva\source\repos\WebApplication8\wwwroot\" />
 </StaticWebAssets>

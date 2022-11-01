@@ -56,3 +56,13 @@ C:\Users\ryuva\source\repos\WebApplication7\obj\Debug\net5.0\ref\WebApplication7
 C:\Users\ryuva\source\repos\WebApplication7\obj\Debug\net5.0\WebApplication7.pdb
 C:\Users\ryuva\source\repos\WebApplication7\obj\Debug\net5.0\WebApplication7.genruntimeconfig.cache
 C:\Users\ryuva\source\repos\WebApplication7\obj\Debug\net5.0\WebApplication7.csproj.CopyComplete
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.Views.dll
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.Views.pdb
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.deps.json
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.runtimeconfig.json
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.runtimeconfig.dev.json
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.StaticWebAssets.xml
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.exe
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.dll
+C:\Users\ryuva\source\repos\WebApplication7\bin\Debug\net5.0\WebApplication8.pdb
+C:\Users\ryuva\source\repos\WebApplication7\obj\Debug\net5.0\WebApplication7.MvcApplicationPartsAssemblyInfo.cs

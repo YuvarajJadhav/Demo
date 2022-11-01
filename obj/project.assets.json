@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "WebApplication8/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/WebApplication8.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApplication8.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WebApplication8/1.0.0": {
+      "type": "project",
+      "path": "../WebApplication8/WebApplication8.csproj",
+      "msbuildProject": "../WebApplication8/WebApplication8.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "WebApplication8 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ryuva\\.nuget\\packages\\": {},
@@ -41,7 +63,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ryuva\\source\\repos\\WebApplication8\\WebApplication8.csproj": {
+              "projectPath": "C:\\Users\\ryuva\\source\\repos\\WebApplication8\\WebApplication8.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
